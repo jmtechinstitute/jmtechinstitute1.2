@@ -44,6 +44,9 @@ nav ul li a{
     text-align: center;
 }
 
+.contect2{
+    text-align: center;
+}
 .contect h1{
     font-size: 400%;
     color: #fff;
@@ -82,7 +85,16 @@ nav ul li a{
 
 }
 
-.contect1.1{
-    text-align: center;
 
+.contect2 a{
+    text-decoration: none;
+    display: inline-block;
+    color:#fff;
+    font-size: 70%;
+    border: 2px solid #fff;
+    padding: 14px 70px;
+    border-radius: 50px;
+    margin-top: 20px;
+ 
 }
+
